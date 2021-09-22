@@ -8,7 +8,7 @@ body {
 
 #logo {
   color: white;
-  background-color: rgb(211, 70, 94);
+  background-color: rgb(0, 136, 0);
   display: inline-block;
   font-size:32px;
   font-weight: bold;
@@ -20,4 +20,35 @@ body {
   font-size: 32px;
   font-weight: bold;
   margin:8px
+}
+
+#navigation a {
+  color: gray;
+  padding: 8px;
+}
+
+#navigation a:hover {
+  color: rgb(0, 136, 0);
+}
+
+
+
+#image img {
+  width: 100%;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+
+
+
+#main {
+  width: 800px;
+  margin: auto;
+}
+
+
+
+h2 {
+  text-align: center;
 }
