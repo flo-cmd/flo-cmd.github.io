@@ -1,0 +1,22 @@
+body {
+  font-family:Arial
+}
+
+#top {
+  text-align: center;
+}
+
+#logo {
+  color: white;
+  background-color: rgb(211, 70, 94);
+  display: inline;
+  font-size:32px;
+  font-weight: bold;
+  padding:8px;
+}
+
+#logo-name {
+  font-size: 32px;
+  font-weight: bold;
+  margin:8px
+}
